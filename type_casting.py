@@ -1,0 +1,12 @@
+a="5"
+print(int(a))
+b=8
+print(float(b))
+c=9
+print(str(c))
+d=8.9
+print(int(d))
+print(type(a))
+print(type(b))
+print(type(c))
+print(type(d))
